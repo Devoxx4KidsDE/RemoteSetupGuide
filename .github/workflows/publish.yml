@@ -15,9 +15,6 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
-      - name: Get current date
-        run: echo "TODAY=$(date +'%D')" >> $GITHUB_ENV
-
       # Runs a single command using the runners shell
       - name: Replace templates
         run: |
@@ -31,4 +28,4 @@ jobs:
           BRANCH: gh-pages
           FOLDER: site
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          MESSAGE: "[$TODAY] Publish {msg}"
+          MESSAGE: "Publish: {msg}"
