@@ -25,4 +25,4 @@ Install me!
 
 
 
-Alles geklappt? Super, auf zum nächsten [Workshop](/workshops/python-games.md).
+Alles geklappt? Super, auf zum nächsten [Workshop](/site/workshopsshops/python-games.md).
