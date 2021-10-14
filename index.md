@@ -1,4 +1,4 @@
-## Willkommen zur Devoxx4Kids 12.12.1991
+## Willkommen zur Devoxx4Kids 11.11.2021
 
 
 Um einen reibungslosen Ablauf zu garantieren haben wir euch einen kleinen Guide zusammengestellt.
