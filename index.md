@@ -1,7 +1,6 @@
 ## Willkommen zur Devoxx4Kids 12.12.1991
 
 
-
 Um einen reibungslosen Ablauf zu garantieren haben wir euch einen kleinen Guide zusammengestellt.
 
 Bitte wähle zuerst das Betriebssystem, welches dein Rechner nutzt, den du bei der kommenden Devoxx4Kids benutzen wirst:
