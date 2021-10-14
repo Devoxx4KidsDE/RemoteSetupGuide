@@ -1,5 +1,5 @@
 #!/bin/bash
-for i in $(cat ../.env)
+for i in $(cat ../env)
 do
 	key=$(cut -d "=" -f1 <<< $i)
 	value=$(cut -d "=" -f2 <<< $i)
